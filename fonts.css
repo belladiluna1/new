@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'MabryPro-Regular';
+  src: url('../fonts/MabryPro/MabryPro-Regular.eot');
+  src: url('../fonts/MabryPro/MabryPro-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-Regular.svg#MabryPro-Regular') format('svg'),
+       url('../fonts/MabryPro/MabryPro-Regular.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-Regular.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MabryPro-Bold';
+  src: url('../fonts/MabryPro/MabryPro-Bold.eot');
+  src: url('../fonts/MabryPro/MabryPro-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-Bold.svg#MabryPro-Bold') format('svg'),
+       url('../fonts/MabryPro/MabryPro-Bold.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-Bold.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MabryPro-Italic';
+  src: url('../fonts/MabryPro/MabryPro-Italic.eot');
+  src: url('../fonts/MabryPro/MabryPro-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-Italic.svg#MabryPro-Italic') format('svg'),
+       url('../fonts/MabryPro/MabryPro-Italic.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-Italic.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MabryPro-Black';
+  src: url('../fonts/MabryPro/MabryPro-Black.eot');
+  src: url('../fonts/MabryPro/MabryPro-Black.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-Black.svg#MabryPro-Black') format('svg'),
+       url('../fonts/MabryPro/MabryPro-Black.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-Black.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-Black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MabryPro-BlackItalic';
+  src: url('../fonts/MabryPro/MabryPro-BlackItalic.eot');
+  src: url('../fonts/MabryPro/MabryPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-BlackItalic.svg#MabryPro-BlackItalic') format('svg'),
+       url('../fonts/MabryPro/MabryPro-BlackItalic.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-BlackItalic.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-BlackItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MabryPro-Light';
+  src: url('../fonts/MabryPro/MabryPro-Light.eot');
+  src: url('../fonts/MabryPro/MabryPro-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-Light.svg#MabryPro-Light') format('svg'),
+       url('../fonts/MabryPro/MabryPro-Light.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-Light.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MabryPro-LightItalic';
+  src: url('../fonts/MabryPro/MabryPro-LightItalic.eot');
+  src: url('../fonts/MabryPro/MabryPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-LightItalic.svg#MabryPro-LightItalic') format('svg'),
+       url('../fonts/MabryPro/MabryPro-LightItalic.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-LightItalic.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-LightItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MabryPro-Medium';
+  src: url('../fonts/MabryPro/MabryPro-Medium.eot');
+  src: url('../fonts/MabryPro/MabryPro-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-Medium.svg#MabryPro-Medium') format('svg'),
+       url('../fonts/MabryPro/MabryPro-Medium.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-Medium.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MabryPro-MediumItalic';
+  src: url('../fonts/MabryPro/MabryPro-MediumItalic.eot');
+  src: url('../fonts/MabryPro/MabryPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MabryPro/MabryPro-MediumItalic.svg#MabryPro-MediumItalic') format('svg'),
+       url('../fonts/MabryPro/MabryPro-MediumItalic.ttf') format('truetype'),
+       url('../fonts/MabryPro/MabryPro-MediumItalic.woff') format('woff'),
+       url('../fonts/MabryPro/MabryPro-MediumItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
